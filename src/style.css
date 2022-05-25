@@ -12,8 +12,10 @@ body {
 }
 
 .card-container {
-    margin: 10rem auto;
+    margin: 5rem auto;
     padding: 20px;
+    width: 50vw;
+    height: 70vh;
     color: white;
     justify-content: space-around;
     display: flex;
